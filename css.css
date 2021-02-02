@@ -10,8 +10,10 @@
  opacity:.5;
 }
 .logoImg{
- height: 100%;
- width: 60%;
+  text-shadow: 2px 2px white;
+color:#E74C3C;
+font-size: 30px;
+font-family:  cursive;
  float: right;
 margin-right:-50px;
  
